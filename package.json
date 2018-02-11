@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/AssKicker0214/CartoonPhoto/issues"
   },
-  "homepage": "https://github.com/AssKicker0214/CartoonPhoto#readme"
+  "homepage": "https://github.com/AssKicker0214/CartoonPhoto#readme",
+  "dependencies": {
+    "jimp": "^0.2.28"
+  }
 }
