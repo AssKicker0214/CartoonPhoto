@@ -1,0 +1,24 @@
+{
+  "name": "photo2cartoon",
+  "version": "0.0.1",
+  "description": "Cartoonlise your photo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AssKicker0214/CartoonPhoto.git"
+  },
+  "keywords": [
+    "cartoon",
+    "image",
+    "photo"
+  ],
+  "author": "AssKicker0214",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AssKicker0214/CartoonPhoto/issues"
+  },
+  "homepage": "https://github.com/AssKicker0214/CartoonPhoto#readme"
+}
