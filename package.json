@@ -1,7 +1,7 @@
 {
   "name": "photo2cartoon",
   "version": "0.0.1",
-  "description": "Cartoonlise your photo",
+  "description": "Cartoonlize your photo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
